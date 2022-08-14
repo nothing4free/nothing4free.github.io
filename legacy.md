@@ -4,4 +4,4 @@ title: "/legacy"
 permalink: /legacy
 ---
 
-old blog contents go here :)
+old nothing4free.org blog contents go here :)

@@ -2,3 +2,4 @@ remote_theme: b2a3e8/jekyll-theme-console
 title: root@nothing4free:/#
 description: hack the planet!
 markdown: kramdown
+footer: 'hack the planet! | nothing4free'

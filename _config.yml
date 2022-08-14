@@ -5,8 +5,10 @@ markdown: kramdown
 
 header_pages:
   - index.md
+  - legacy.md
   - about.md
-  
+
 style: dark
 listen_for_clients_preferred_style: true
+header: 'nothing4free'
 footer: 'hack the planet! | nothing4free'

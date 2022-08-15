@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Protección online: redes puúblicas y VPN."
-permalink: "/legacy/2021-04-21_po-redespublicas"
+permalink: "/legacy/2021-08-27_po-redespublicas"
 ---
 
 # Protección online: redes públicas y VPN.

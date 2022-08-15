@@ -1,5 +1,5 @@
 ---
-layout: animation
+layout: home
 title: /
 permalink: /
 ---

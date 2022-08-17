@@ -1,12 +1,12 @@
 ---
-layout: home
+layout: page
 title: /
 permalink: /
 ---
 
 ### hack the planet and listen to techno!                                 
                                                   
-       
+<br>
                ((   (@@@@@@@@@@@@@@((             
               & @@@@@@@@&&&&&&&&&@@@@@@@          
             @@@@@@@@                  @@@@#       

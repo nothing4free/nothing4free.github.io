@@ -4,7 +4,7 @@ title: /about
 permalink: /about
 ---
 
-# about nothing4free
+# /about
 
 ### whoami
 

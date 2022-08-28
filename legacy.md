@@ -4,6 +4,8 @@ title: "/legacy"
 permalink: /legacy
 ---
 
+# /legacy
+
 ### welcome to /legacy. here you will find the old nothing4free.org blog posts and content.
 <br>
 

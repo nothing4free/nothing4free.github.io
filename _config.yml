@@ -5,6 +5,7 @@ markdown: kramdown
 
 header_pages:
   - index.md
+  - posts.md
   - legacy.md
   - about.md
 

@@ -4,8 +4,8 @@ title: /home
 permalink: /
 ---
 
-# /home
-
+### /home
+<br>
 Hello, friend.
 
 This is my personal site, a place where I share my hacking research, as well as my thoughts on... well, whatever I want to share my thoughts on ;)

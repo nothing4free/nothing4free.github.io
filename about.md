@@ -4,8 +4,8 @@ title: /about
 permalink: /about
 ---
 
-### /about
-<br>
+# /about
+
 ### whoami
 
 Hello, friend.

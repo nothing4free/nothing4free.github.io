@@ -4,7 +4,7 @@ title: /project-elliot
 permalink: /project-elliot
 ---
 
-# Project Elliot: a wired and wireless pentesting-oriented cyberdeck.
+# /project-elliot
 
 Project Elliot is a purpose-built computer I'm currently working on. It is based on a Raspberry Pi 4 that runs a custom wired and wireless networks pentesting framework I'm also developing. This cyberdeck also has dedicated hardware for these purposes that, together with a screen and keyboard, will be neatly packaged in a Commodore 64C.
 

@@ -5,5 +5,10 @@ permalink: /posts
 ---
 
 # /posts
-
-oh shit, you're early! posts will go here, but there's nothing yet :)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%B %d %Y' }}
+    </li>
+  {% endfor %}
+</ul>

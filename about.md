@@ -10,7 +10,7 @@ permalink: /about
 
 Hello, friend.
 
-My name is Jorge, aka nothing4free. I'm a Software Engineering + Cyberesecurity student as well as a passionate hacker who loves to play around with the technology that surrounds us. No matter if it's computers, radio devices or any device capable of doing anything; I love testing and putting them to the limit. This place is my personal playground where I share my experiences, tools and investigations with the world.
+My name is Jorge, aka nothing4free (or n4free for short). I'm a Software Engineer with a specialty in Cybersecurity, as well as a passionate hacker who loves to play around with the technology that surrounds us. No matter if it's computers, radio devices or any device capable of doing anything; I love testing and putting them to the limit. This place is my personal playground where I share my experiences, tools and investigations with the world.
 
 ### hacking implies innovation, innovation needs hacking.
 

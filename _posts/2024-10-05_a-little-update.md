@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A little update."
-permalink: "/posts/2024-10-05_a-little-update"
+permalink: "/legacy/2024-10-05_a-little-update"
 ---
 
 # A little update.

@@ -16,3 +16,7 @@ header: 'nothing4free'
 footer: 'hack the planet! | <a href="https://github.com/nothing4free">github</a> | <a href="https://twitter.com/n4free_">twitter</a> | <a href="https://instagram.com/n4free_">instagram</a>'
 
 BASE_PATH: /
+
+collections:
+  legacy:
+    output: true

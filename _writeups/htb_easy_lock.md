@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[HTB] Lock (Easy)"
-permalink: "/writeups/htb/easy/lock"
+permalink: "/writeups/htb_easy_lock_"
 ---
 
 Comenzamos escaneando la IP destino: `nmap 10.179.49.46 -sV --open -T5 -oN ports -Pn` 

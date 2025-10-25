@@ -6,7 +6,6 @@ markdown: kramdown
 header_pages:
   - index.md
   - posts.md
-  - writeups.md
   - project_elliot.md
   - legacy.md
   - about.md
